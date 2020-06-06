@@ -1,0 +1,12 @@
+{
+	"id": 3,
+	"name": "Bill Gates",
+	"email": "billgates@test.com",
+	"phone": "954*******",
+	"city": "Seattle",
+	"state": "Washington ",
+	"country": "US",
+	"organization": "MICROSOFT",
+	"jobProfile": "FOUNDER & CEO",
+	"additionalInfo": "Bill Gates' massive mansion is remarkable"
+}

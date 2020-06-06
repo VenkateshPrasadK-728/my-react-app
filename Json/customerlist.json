@@ -1,0 +1,16 @@
+[{
+	"id": 1,
+	"name": "Jeff Bezos",
+	"email": "jeffbezos@test.com",
+	"phone": "901*******"
+}, {
+	"id": 2,
+	"name": "Warren Buffet",
+	"email": "warrenbuffet@test.com",
+	"phone": "980*******"
+}, {
+	"id": 3,
+	"name": "Bill Gates",
+	"email": "billgates@test.com",
+	"phone": "954*******"
+}]

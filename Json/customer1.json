@@ -1,0 +1,12 @@
+{
+	"id": 1,
+	"name": "Jeff Bezos",
+	"email": "jeffbezos@test.com",
+	"phone": "901*******",
+	"city": "Dallas",
+	"state": "Texas",
+	"country": "US",
+	"organization": "Amazon",
+	"jobProfile": "CEO & Entrepreneur",
+	"additionalInfo": "World's Richest Person"
+}
